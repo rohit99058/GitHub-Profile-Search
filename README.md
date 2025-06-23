@@ -1,12 +1,41 @@
-# React + Vite
+# GitHub Profile Search App
+This is a simple web application built with React.js that allows users to search for GitHub profiles by username and view detailed profile information.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Features
+Search: Users can enter a GitHub username and click a button to search for the profile.
 
-Currently, two official plugins are available:
+Profile Display: The app displays the profile picture, username, bio, number of followers, and number of repositories for the searched profile.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Error Handling: If the entered username is not found or there is an error in fetching the data, an error message is displayed.
 
-## Expanding the ESLint configuration
+Responsive Design: The app is designed to work well on both desktop and mobile devices.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Technologies Used:
+ --> React.js
+ --> GitHub API
+ --> HTML/CSS
+ --> Getting Started
+
+
+ [Live Demo] ==> {https://github-profile-search-l9g6.onrender.com}
+
+# To run this project locally, follow these steps:
+
+1. Clone this repository to your local machine using:
+
+git clone https://github.com/your-username/GitHub-Profile-Search-App-Using-React-JS.git
+Replace your-username with your GitHub username.
+
+2. Navigate to the project directory:
+cd github-profile-search-app
+
+3. Install the dependencies:
+npm install
+
+4. Start the development server:
+npm start
+
+Open your browser and visit http://localhost:5173 to view the app.
+
+Contributing
+Contributions are welcome! If you have any ideas, suggestions, or improvements, please create an issue or submit a pull request.
