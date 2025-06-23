@@ -17,7 +17,7 @@ Technologies Used:
  --> Getting Started
 
 
- [Live Demo] ==> {https://github-profile-search-l9g6.onrender.com}
+ [Live Demo] ==> 'https://github-profile-search-l9g6.onrender.com/'
 
 # To run this project locally, follow these steps:
 
